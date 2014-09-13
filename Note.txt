@@ -1,0 +1,4 @@
+Originally Created by Rohit Suratekar during October 2012 as a project at National Centre for Biological Sciences, Bangalore.
+This script uses Perl and Matlab to find relationship between Codon Bias and Protein Content.
+You are free to use/share/modify this codes.
+You can contact at rohitsuratekar[at]gmail.com for any further information
