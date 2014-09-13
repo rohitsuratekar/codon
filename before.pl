@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-#Originally Created by Rohit Suratekar during October 2012 as a project at NCBS
+#Read "Note.txt" for general information
 #Selecting files from database
 
 use File::Copy;
